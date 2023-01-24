@@ -1,0 +1,17 @@
+C:\Users\andre\source\repos\MSSAassignment5dot2dot\obj\Debug\net6.0-windows\MSSAassignment5dot2dot.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\MSSAassignment5dot2dot\obj\Debug\net6.0-windows\MSSAassignment5dot2dot.Phonebook.resources
+C:\Users\andre\source\repos\MSSAassignment5dot2dot\obj\Debug\net6.0-windows\MSSAassignment5dot2dot.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\MSSAassignment5dot2dot\obj\Debug\net6.0-windows\MSSAassignment5dot2dot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\MSSAassignment5dot2dot\obj\Debug\net6.0-windows\MSSAassignment5dot2dot.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\MSSAassignment5dot2dot\obj\Debug\net6.0-windows\MSSAassignment5dot2dot.AssemblyInfo.cs
+C:\Users\andre\source\repos\MSSAassignment5dot2dot\obj\Debug\net6.0-windows\MSSAassignment5dot2dot.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\MSSAassignment5dot2dot\bin\Debug\net6.0-windows\MSSAassignment5dot2dot.exe
+C:\Users\andre\source\repos\MSSAassignment5dot2dot\bin\Debug\net6.0-windows\MSSAassignment5dot2dot.deps.json
+C:\Users\andre\source\repos\MSSAassignment5dot2dot\bin\Debug\net6.0-windows\MSSAassignment5dot2dot.runtimeconfig.json
+C:\Users\andre\source\repos\MSSAassignment5dot2dot\bin\Debug\net6.0-windows\MSSAassignment5dot2dot.dll
+C:\Users\andre\source\repos\MSSAassignment5dot2dot\bin\Debug\net6.0-windows\MSSAassignment5dot2dot.pdb
+C:\Users\andre\source\repos\MSSAassignment5dot2dot\obj\Debug\net6.0-windows\MSSAassignment5dot2dot.dll
+C:\Users\andre\source\repos\MSSAassignment5dot2dot\obj\Debug\net6.0-windows\refint\MSSAassignment5dot2dot.dll
+C:\Users\andre\source\repos\MSSAassignment5dot2dot\obj\Debug\net6.0-windows\MSSAassignment5dot2dot.pdb
+C:\Users\andre\source\repos\MSSAassignment5dot2dot\obj\Debug\net6.0-windows\MSSAassignment5dot2dot.genruntimeconfig.cache
+C:\Users\andre\source\repos\MSSAassignment5dot2dot\obj\Debug\net6.0-windows\ref\MSSAassignment5dot2dot.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dGi/C4ThtqOisJ1G3fxtMICvieVyr58mSy/P6Q5cFxLED6l3vLCJU4xSisab8bQbwv2zusr0vuuwLJqkCokinQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andre\\source\\repos\\MSSAassignment5dot2dot\\MSSAassignment5dot2dot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.office.interop.excel\\15.0.4795.1001\\microsoft.office.interop.excel.15.0.4795.1001.nupkg.sha512"
+  ],
+  "logs": []
+}
