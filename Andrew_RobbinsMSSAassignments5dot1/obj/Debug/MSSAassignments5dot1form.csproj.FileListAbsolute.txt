@@ -1,0 +1,11 @@
+C:\Users\andre\source\repos\MSSAassignments5dot1form\bin\Debug\MSSAassignments5dot1form.exe.config
+C:\Users\andre\source\repos\MSSAassignments5dot1form\bin\Debug\MSSAassignments5dot1form.exe
+C:\Users\andre\source\repos\MSSAassignments5dot1form\bin\Debug\MSSAassignments5dot1form.pdb
+C:\Users\andre\source\repos\MSSAassignments5dot1form\obj\Debug\MSSAassignments5dot1form.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\MSSAassignments5dot1form\obj\Debug\MSSAassignments5dot1form.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\source\repos\MSSAassignments5dot1form\obj\Debug\MSSAassignments5dot1form.Form1.resources
+C:\Users\andre\source\repos\MSSAassignments5dot1form\obj\Debug\MSSAassignments5dot1form.Properties.Resources.resources
+C:\Users\andre\source\repos\MSSAassignments5dot1form\obj\Debug\MSSAassignments5dot1form.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\MSSAassignments5dot1form\obj\Debug\MSSAassignments5dot1form.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\MSSAassignments5dot1form\obj\Debug\MSSAassignments5dot1form.exe
+C:\Users\andre\source\repos\MSSAassignments5dot1form\obj\Debug\MSSAassignments5dot1form.pdb
